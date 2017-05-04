@@ -1,7 +1,1 @@
 
-zuul:
-  retryable: true
-  routes:
-    api-a:
-      path: /department/**
-      serviceId: department3
