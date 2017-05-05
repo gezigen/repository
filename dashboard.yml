@@ -4,4 +4,4 @@ turbine:
 spring:
   profiles: dev,default
 turbine:
-  app-config:gateway,department,employee
+  app-config: gateway,department,employee
