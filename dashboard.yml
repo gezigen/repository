@@ -1,0 +1,7 @@
+turbine:
+  app-config:gateway
+---
+spring:
+  profiles: dev,default
+turbine:
+  app-config:gateway,department,employee
